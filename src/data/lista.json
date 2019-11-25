@@ -1,0 +1,16 @@
+[
+    {
+        "id": "informacion",
+        "etiqueta":"Información"
+    },
+
+    {
+        "id": "ayuda",
+        "etiqueta":"Ayuda"
+    },
+
+    {
+        "id": "contacto",
+        "etiqueta":"Contacto"
+    }
+]
